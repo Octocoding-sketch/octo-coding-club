@@ -2,7 +2,6 @@ import React from "react";
 import { HomeworkItems } from "@/components/homeworks";
 
 const index = () => {
-  // const Component = 
   return (
     <div>
       {HomeworkItems?.[0].Component}
