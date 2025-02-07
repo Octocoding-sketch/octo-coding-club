@@ -4,7 +4,7 @@ import { HomeworkItems } from "@/components/homeworks";
 const index = () => {
   return (
     <div>
-      {HomeworkItems?.[0].Component}
+      {HomeworkItems?.[1].Component}
     </div>
   );
 };
