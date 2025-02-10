@@ -24,7 +24,7 @@ const homework1 = () => {
       </ol>
 
       <p>
-        Check out my favorite website:{" "}
+        Check out my favorite website:
         <a href="https://www.wikipedia.org" target="_blank">
           Wikipedia
         </a>

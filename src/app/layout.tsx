@@ -24,6 +24,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      {/* import React from 'https://esm.sh/react@18.2.0' import ReactDOM from
+        'https://esm.sh/react-dom@18.2.0' import {QueryClient} from */}
+
       {/* className={`${geistSans.variable} ${geistMono.variable}`} */}
       <body>{children}</body>
     </html>
